@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Sreekanth 👋
 
-<!--
-**sreekanth-cg/sreekanth-cg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lead Site Reliability Engineer with experience in
+cloud infrastructure, automation, and production systems.
+Currently exploring how AI can be applied to reliability and operations.
 
-Here are some ideas to get you started:
+## Areas of interest
+- Site Reliability Engineering
+- Cloud Infrastructure (AWS, Azure)
+- Automation & Tooling
+- AI for Operations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently learning
+- AI-assisted operations
+- Python for automation
+- Infrastructure best practices
